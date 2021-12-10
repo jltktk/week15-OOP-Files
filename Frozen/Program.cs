@@ -19,7 +19,7 @@ namespace Frozen
                 wish = _wish;               
             }
 
-            //getters for Movie
+            //getters for WishList
 
             public string Person
             {
